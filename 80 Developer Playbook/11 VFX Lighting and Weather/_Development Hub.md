@@ -1,0 +1,102 @@
+---
+kind: development-category-hub
+category: "11 VFX Lighting and Weather"
+---
+# 11 VFX Lighting and Weather — Development Hub
+
+This hub contains 80 new development companions, one for each existing Markdown note in **11 VFX Lighting and Weather**. Each links to its source and adds implementation and validation guidance.
+
+## Focus
+Use this material to keep effects readable and affordable.
+
+## Build loop
+1. Prototype timing, color, and silhouette against the real camera with an effect budget.
+2. Pool repeated effects, cap lifetimes, preserve hazard readability, and test mobile.
+3. Check cleanup, simultaneous effects, and frame cost.
+
+## Connected disciplines
+- [[80 Developer Playbook/05 Performance and Optimization/_Development Hub|05 Performance and Optimization]]
+- [[80 Developer Playbook/09 Maps and Worlds/_Development Hub|09 Maps and Worlds]]
+- [[80 Developer Playbook/12 UI Audio and Camera/_Development Hub|12 UI Audio and Camera]]
+
+## New guides
+- [[80 Developer Playbook/11 VFX Lighting and Weather/Color Composition & Art Direction Across Styles - Development Guide|Color Composition & Art Direction Across Styles]]
+- [[80 Developer Playbook/11 VFX Lighting and Weather/Fake Volumetric Light Shafts - Beams and SunRays - Development Guide|Fake Volumetric Light Shafts - Beams and SunRays]]
+- [[80 Developer Playbook/11 VFX Lighting and Weather/Horror Fog and Brightness Calibration - Silhouettes, Fog Walls and a Gamma Screen - Development Guide|Horror Fog and Brightness Calibration - Silhouettes, Fog Walls and a Gamma Screen]]
+- [[80 Developer Playbook/11 VFX Lighting and Weather/Interior Fake Bounce Light - Ambient, Fill Lights and Floor Glow - Development Guide|Interior Fake Bounce Light - Ambient, Fill Lights and Floor Glow]]
+- [[80 Developer Playbook/11 VFX Lighting and Weather/Neon City at Night - Signs, Light Pools and Fake Wet Reflections - Development Guide|Neon City at Night - Signs, Light Pools and Fake Wet Reflections]]
+- [[80 Developer Playbook/11 VFX Lighting and Weather/Night Sky Events - Auroras, Shooting Stars and Blood Moons - Development Guide|Night Sky Events - Auroras, Shooting Stars and Blood Moons]]
+- [[80 Developer Playbook/11 VFX Lighting and Weather/Local Light Budgets - PointLight, SpotLight and SurfaceLight - Development Guide|Local Light Budgets - PointLight, SpotLight and SurfaceLight]]
+- [[80 Developer Playbook/11 VFX Lighting and Weather/Sky Instance - Custom Skyboxes, Sun, Moon and Stars - Development Guide|Sky Instance - Custom Skyboxes, Sun, Moon and Stars]]
+- [[80 Developer Playbook/11 VFX Lighting and Weather/Day Night and Lighting Blueprint - Development Guide|Day/Night and Lighting Blueprint]]
+- [[80 Developer Playbook/11 VFX Lighting and Weather/Lighting Presets by Genre - LightingStyle, Atmosphere and Post - Development Guide|Lighting Presets by Genre - LightingStyle, Atmosphere and Post]]
+- [[80 Developer Playbook/11 VFX Lighting and Weather/Environment Lighting — Stylized to Realistic - Development Guide|Environment Lighting — Stylized to Realistic]]
+- [[80 Developer Playbook/11 VFX Lighting and Weather/Grounded Lighting Composition - Development Guide|Grounded Lighting Composition]]
+- [[80 Developer Playbook/11 VFX Lighting and Weather/Interior Exterior Lighting Transitions - Development Guide|Interior/Exterior Lighting Transitions]]
+- [[80 Developer Playbook/11 VFX Lighting and Weather/Lighting - Development Guide|Lighting]]
+- [[80 Developer Playbook/11 VFX Lighting and Weather/Lighting too dark overprocessed - Development Guide|Lighting too dark / overprocessed]]
+- [[80 Developer Playbook/11 VFX Lighting and Weather/LIGHTING, ATMOSPHERE & GRAPHICS - Development Guide|LIGHTING, ATMOSPHERE & GRAPHICS]]
+- [[80 Developer Playbook/11 VFX Lighting and Weather/Arc Slash, Crescent & Wave VFX - Development Guide|Arc Slash, Crescent & Wave VFX]]
+- [[80 Developer Playbook/11 VFX Lighting and Weather/BLOOD DAMAGE VFX GORE POLICY - Development Guide|BLOOD / DAMAGE VFX / GORE POLICY]]
+- [[80 Developer Playbook/11 VFX Lighting and Weather/Blood Gore System — Architecture + Policy Gate - Development Guide|Blood/Gore System — Architecture + Policy Gate]]
+- [[80 Developer Playbook/11 VFX Lighting and Weather/ForceField Material and Neon Glow Tricks - Development Guide|ForceField Material and Neon Glow Tricks]]
+- [[80 Developer Playbook/11 VFX Lighting and Weather/Ability VFX Timelines - Wind-Up, Release, Impact and Linger as Data - Development Guide|Ability VFX Timelines - Wind-Up, Release, Impact and Linger as Data]]
+- [[80 Developer Playbook/11 VFX Lighting and Weather/Ambient Fire Stacks - Campfires, Torches, Burning Barrels and Chimney Smoke - Development Guide|Ambient Fire Stacks - Campfires, Torches, Burning Barrels and Chimney Smoke]]
+- [[80 Developer Playbook/11 VFX Lighting and Weather/Anime Power-Up Aura - Flame Shell, Rising Sparks and Ground Pressure - Development Guide|Anime Power-Up Aura - Flame Shell, Rising Sparks and Ground Pressure]]
+- [[80 Developer Playbook/11 VFX Lighting and Weather/Chain Lightning - Target Hopping on the Server, Arcs on the Client - Development Guide|Chain Lightning - Target Hopping on the Server, Arcs on the Client]]
+- [[80 Developer Playbook/11 VFX Lighting and Weather/Collectible Pickups - Idle Glint, Magnet Pull and Collect Pop - Development Guide|Collectible Pickups - Idle Glint, Magnet Pull and Collect Pop]]
+- [[80 Developer Playbook/11 VFX Lighting and Weather/Dash Afterimages and Ghost Trails - Cloning Poses Safely - Development Guide|Dash Afterimages and Ghost Trails - Cloning Poses Safely]]
+- [[80 Developer Playbook/11 VFX Lighting and Weather/Earth Element VFX - Rock Spikes, Crater Rings and Flying Debris - Development Guide|Earth Element VFX - Rock Spikes, Crater Rings and Flying Debris]]
+- [[80 Developer Playbook/11 VFX Lighting and Weather/Footstep Dust, Splashes and Footprints by Floor Material - Development Guide|Footstep Dust, Splashes and Footprints by Floor Material]]
+- [[80 Developer Playbook/11 VFX Lighting and Weather/Healing, Buff and Debuff Auras - Status VFX Players Can Read - Development Guide|Healing, Buff and Debuff Auras - Status VFX Players Can Read]]
+- [[80 Developer Playbook/11 VFX Lighting and Weather/Hit Sparks per Material - An Impact Lookup Table - Development Guide|Hit Sparks per Material - An Impact Lookup Table]]
+- [[80 Developer Playbook/11 VFX Lighting and Weather/Kid-Friendly Hit Feedback - Blood Alternatives and Maturity Labels - Development Guide|Kid-Friendly Hit Feedback - Blood Alternatives and Maturity Labels]]
+- [[80 Developer Playbook/11 VFX Lighting and Weather/Level-Up and Reward Bursts - Light Pillars, Confetti and Screen Pops - Development Guide|Level-Up and Reward Bursts - Light Pillars, Confetti and Screen Pops]]
+- [[80 Developer Playbook/11 VFX Lighting and Weather/Magic Circles - Rotating Rune Decals, Rising Beams and Cast Telegraphs - Development Guide|Magic Circles - Rotating Rune Decals, Rising Beams and Cast Telegraphs]]
+- [[80 Developer Playbook/11 VFX Lighting and Weather/Melee Swing Trails - Blade Attachments, Swing Windows and Clear - Development Guide|Melee Swing Trails - Blade Attachments, Swing Windows and Clear]]
+- [[80 Developer Playbook/11 VFX Lighting and Weather/Shockwaves - Expanding Mesh Rings, Dust Walls and Ground Slams - Development Guide|Shockwaves - Expanding Mesh Rings, Dust Walls and Ground Slams]]
+- [[80 Developer Playbook/11 VFX Lighting and Weather/Teleport and Portal Effects - Beam Circles, Swirls and Dissolves - Development Guide|Teleport and Portal Effects - Beam Circles, Swirls and Dissolves]]
+- [[80 Developer Playbook/11 VFX Lighting and Weather/Water Element VFX - Water Orbs, Tidal Waves and Splash Crowns - Development Guide|Water Element VFX - Water Orbs, Tidal Waves and Splash Crowns]]
+- [[80 Developer Playbook/11 VFX Lighting and Weather/Wind Element VFX - Gust Rings, Tornado Spirals and Leaf Debris - Development Guide|Wind Element VFX - Gust Rings, Tornado Spirals and Leaf Debris]]
+- [[80 Developer Playbook/11 VFX Lighting and Weather/Gameplay Screen Effects - Damage Flash, Low Health and Menu Blur - Development Guide|Gameplay Screen Effects - Damage Flash, Low Health and Menu Blur]]
+- [[80 Developer Playbook/11 VFX Lighting and Weather/Highlight Instance - Outlines, X-Ray and the 255 Limit - Development Guide|Highlight Instance - Outlines, X-Ray and the 255 Limit]]
+- [[80 Developer Playbook/11 VFX Lighting and Weather/Impact Decals - Bullet Holes, Scorch Marks and Pooling - Development Guide|Impact Decals - Bullet Holes, Scorch Marks and Pooling]]
+- [[80 Developer Playbook/11 VFX Lighting and Weather/Muzzle Flash Recipe - Flash, Light, Smoke and Shell - Development Guide|Muzzle Flash Recipe - Flash, Light, Smoke and Shell]]
+- [[80 Developer Playbook/11 VFX Lighting and Weather/Replicating VFX - Server Signals, Client Renders - Development Guide|Replicating VFX - Server Signals, Client Renders]]
+- [[80 Developer Playbook/11 VFX Lighting and Weather/Scrolling Textures, UV Animation and Emissive Decals - Development Guide|Scrolling Textures, UV Animation and Emissive Decals]]
+- [[80 Developer Playbook/11 VFX Lighting and Weather/Beams, Trails and Attachments - Production Setups - Development Guide|Beams, Trails and Attachments - Production Setups]]
+- [[80 Developer Playbook/11 VFX Lighting and Weather/Mesh VFX Recipes with the Top G VFX Mesh Pack - Development Guide|Mesh VFX Recipes with the Top G VFX Mesh Pack]]
+- [[80 Developer Playbook/11 VFX Lighting and Weather/ParticleEmitter Bursts, Flipbooks and Budgets - Development Guide|ParticleEmitter Bursts, Flipbooks and Budgets]]
+- [[80 Developer Playbook/11 VFX Lighting and Weather/Destructible Props Blueprint - Development Guide|Destructible Props Blueprint]]
+- [[80 Developer Playbook/11 VFX Lighting and Weather/Elemental Weapon VFX Lab - Development Guide|Elemental Weapon VFX Lab]]
+- [[80 Developer Playbook/11 VFX Lighting and Weather/Elemental Weapon VFX System — Fire, Ice, Arcane, Holy & Dark - Development Guide|Elemental Weapon VFX System — Fire, Ice, Arcane, Holy & Dark]]
+- [[80 Developer Playbook/11 VFX Lighting and Weather/Energy Orb & Projectile VFX - Development Guide|Energy Orb & Projectile VFX]]
+- [[80 Developer Playbook/11 VFX Lighting and Weather/Explosion & Fireball Production — Layered, Fast, Readable - Development Guide|Explosion & Fireball Production — Layered, Fast, Readable]]
+- [[80 Developer Playbook/11 VFX Lighting and Weather/FIRE, SMOKE, LIGHTNING & DESTRUCTION - Development Guide|FIRE, SMOKE, LIGHTNING & DESTRUCTION]]
+- [[80 Developer Playbook/11 VFX Lighting and Weather/Post-Processing Bloom, Color & DOF - Development Guide|Post-Processing: Bloom, Color & DOF]]
+- [[80 Developer Playbook/11 VFX Lighting and Weather/VFX - Development Guide|VFX]]
+- [[80 Developer Playbook/11 VFX Lighting and Weather/VFX Budget and Readability - Development Guide|VFX Budget and Readability]]
+- [[80 Developer Playbook/11 VFX Lighting and Weather/VFX Color Language & Readability - Development Guide|VFX Color Language & Readability]]
+- [[80 Developer Playbook/11 VFX Lighting and Weather/VFX Framework - Development Guide|VFX Framework]]
+- [[80 Developer Playbook/11 VFX Lighting and Weather/VFX looks good but kills FPS - Development Guide|VFX looks good but kills FPS]]
+- [[80 Developer Playbook/11 VFX Lighting and Weather/VFX - VFX - Development Guide|VFX]]
+- [[80 Developer Playbook/11 VFX Lighting and Weather/Water & Surface Interaction - Development Guide|Water & Surface Interaction]]
+- [[80 Developer Playbook/11 VFX Lighting and Weather/Waterfall & Stream VFX — Layered Roblox Recipe - Development Guide|Waterfall & Stream VFX — Layered Roblox Recipe]]
+- [[80 Developer Playbook/11 VFX Lighting and Weather/Fog Options - Lighting Fog vs Atmosphere vs Local Fog Volumes - Development Guide|Fog Options - Lighting Fog vs Atmosphere vs Local Fog Volumes]]
+- [[80 Developer Playbook/11 VFX Lighting and Weather/Seasonal Particles - Falling Leaves, Cherry Blossoms and Pollen - Development Guide|Seasonal Particles - Falling Leaves, Cherry Blossoms and Pollen]]
+- [[80 Developer Playbook/11 VFX Lighting and Weather/Seeded Weather Schedules - Same Weather and Forecast on Every Server - Development Guide|Seeded Weather Schedules - Same Weather and Forecast on Every Server]]
+- [[80 Developer Playbook/11 VFX Lighting and Weather/Weather That Changes Gameplay - Wet Grip, Visibility, Hearing and Wind Drift - Development Guide|Weather That Changes Gameplay - Wet Grip, Visibility, Hearing and Wind Drift]]
+- [[80 Developer Playbook/11 VFX Lighting and Weather/GlobalWind - Grass, Clouds, Particles and Gusts - Development Guide|GlobalWind - Grass, Clouds, Particles and Gusts]]
+- [[80 Developer Playbook/11 VFX Lighting and Weather/Rain Splashes and Ripples - Raycast Sampling Around the Camera - Development Guide|Rain Splashes and Ripples - Raycast Sampling Around the Camera]]
+- [[80 Developer Playbook/11 VFX Lighting and Weather/Sandstorm, Blizzard and Ash Fall - Weather Recipes - Development Guide|Sandstorm, Blizzard and Ash Fall - Weather Recipes]]
+- [[80 Developer Playbook/11 VFX Lighting and Weather/Sky Lightning Strikes - Midpoint Displacement Bolts and Thunder Delay - Development Guide|Sky Lightning Strikes - Midpoint Displacement Bolts and Thunder Delay]]
+- [[80 Developer Playbook/11 VFX Lighting and Weather/Day-Night Cycle and Weather Transitions in Practice - Development Guide|Day-Night Cycle and Weather Transitions in Practice]]
+- [[80 Developer Playbook/11 VFX Lighting and Weather/Fog, Snow, Wind & Layered Weather - Development Guide|Fog, Snow, Wind & Layered Weather]]
+- [[80 Developer Playbook/11 VFX Lighting and Weather/Production Weather State Machine - Development Guide|Production Weather State Machine]]
+- [[80 Developer Playbook/11 VFX Lighting and Weather/Rain Production System - Development Guide|Rain Production System]]
+- [[80 Developer Playbook/11 VFX Lighting and Weather/Thunder, Lightning & Accessibility - Development Guide|Thunder, Lightning & Accessibility]]
+- [[80 Developer Playbook/11 VFX Lighting and Weather/Weather - Development Guide|Weather]]
+- [[80 Developer Playbook/11 VFX Lighting and Weather/Weather Environment Framework - Development Guide|Weather Environment Framework]]
+- [[80 Developer Playbook/11 VFX Lighting and Weather/Weather looks fake or disconnected - Development Guide|Weather looks fake or disconnected]]
+- [[80 Developer Playbook/11 VFX Lighting and Weather/Weather Quality Tiers Lab - Development Guide|Weather Quality Tiers Lab]]
+- [[80 Developer Playbook/11 VFX Lighting and Weather/WEATHER SYSTEMS - Development Guide|WEATHER SYSTEMS]]

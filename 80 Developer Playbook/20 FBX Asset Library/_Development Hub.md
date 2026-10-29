@@ -1,0 +1,107 @@
+---
+kind: development-category-hub
+category: "20 FBX Asset Library"
+---
+# 20 FBX Asset Library — Development Hub
+
+This hub contains 87 new development companions, one for each existing Markdown note in **20 FBX Asset Library**. Each links to its source and adds implementation and validation guidance.
+
+## Focus
+Use this material to track and validate 3D imports.
+
+## Build loop
+1. Record source, license, scale, axis, rig, and use; validate a representative import.
+2. Keep collision and visual meshes purposeful and preserve provenance.
+3. Check orientation, materials, pivots, rig, collision, and runtime cost.
+
+## Connected disciplines
+- Use the main playbook index to connect this area to the rest of the project.
+
+## New guides
+- [[80 Developer Playbook/20 FBX Asset Library/100STYLE Mocap - Catalog - Development Guide|100STYLE Mocap - Catalog]]
+- [[80 Developer Playbook/20 FBX Asset Library/Asset Licenses and Credits - Development Guide|Asset Licenses and Credits]]
+- [[80 Developer Playbook/20 FBX Asset Library/Kenney - Animated Characters Protagonists - Development Guide|Kenney - Animated Characters Protagonists]]
+- [[80 Developer Playbook/20 FBX Asset Library/Kenney - Animated Characters Retro - Development Guide|Kenney - Animated Characters Retro]]
+- [[80 Developer Playbook/20 FBX Asset Library/Kenney - Animated Characters Survivors - Development Guide|Kenney - Animated Characters Survivors]]
+- [[80 Developer Playbook/20 FBX Asset Library/Kenney - Blaster Kit - Development Guide|Kenney - Blaster Kit]]
+- [[80 Developer Playbook/20 FBX Asset Library/Kenney - Blocky Characters - Development Guide|Kenney - Blocky Characters]]
+- [[80 Developer Playbook/20 FBX Asset Library/Kenney - Brick Kit - Development Guide|Kenney - Brick Kit]]
+- [[80 Developer Playbook/20 FBX Asset Library/Kenney - Building Kit - Development Guide|Kenney - Building Kit]]
+- [[80 Developer Playbook/20 FBX Asset Library/Kenney - Car Kit - Development Guide|Kenney - Car Kit]]
+- [[80 Developer Playbook/20 FBX Asset Library/Kenney - Castle Kit - Development Guide|Kenney - Castle Kit]]
+- [[80 Developer Playbook/20 FBX Asset Library/Kenney - City Kit (Commercial) - Development Guide|Kenney - City Kit (Commercial)]]
+- [[80 Developer Playbook/20 FBX Asset Library/Kenney - City Kit (Industrial) - Development Guide|Kenney - City Kit (Industrial)]]
+- [[80 Developer Playbook/20 FBX Asset Library/Kenney - City Kit (Roads) - Development Guide|Kenney - City Kit (Roads)]]
+- [[80 Developer Playbook/20 FBX Asset Library/Kenney - City Kit (Suburban) - Development Guide|Kenney - City Kit (Suburban)]]
+- [[80 Developer Playbook/20 FBX Asset Library/Kenney - Coaster Kit - Development Guide|Kenney - Coaster Kit]]
+- [[80 Developer Playbook/20 FBX Asset Library/Kenney - Cube Pets - Development Guide|Kenney - Cube Pets]]
+- [[80 Developer Playbook/20 FBX Asset Library/Kenney - Factory Kit - Development Guide|Kenney - Factory Kit]]
+- [[80 Developer Playbook/20 FBX Asset Library/Kenney - Fantasy Town Kit - Development Guide|Kenney - Fantasy Town Kit]]
+- [[80 Developer Playbook/20 FBX Asset Library/Kenney - Food Kit - Development Guide|Kenney - Food Kit]]
+- [[80 Developer Playbook/20 FBX Asset Library/Kenney - Furniture Kit - Development Guide|Kenney - Furniture Kit]]
+- [[80 Developer Playbook/20 FBX Asset Library/Kenney - Graveyard Kit - Development Guide|Kenney - Graveyard Kit]]
+- [[80 Developer Playbook/20 FBX Asset Library/Kenney - Hexagon Kit - Development Guide|Kenney - Hexagon Kit]]
+- [[80 Developer Playbook/20 FBX Asset Library/Kenney - Holiday Kit - Development Guide|Kenney - Holiday Kit]]
+- [[80 Developer Playbook/20 FBX Asset Library/Kenney - Marble Kit - Development Guide|Kenney - Marble Kit]]
+- [[80 Developer Playbook/20 FBX Asset Library/Kenney - Mini Arcade - Development Guide|Kenney - Mini Arcade]]
+- [[80 Developer Playbook/20 FBX Asset Library/Kenney - Mini Arena - Development Guide|Kenney - Mini Arena]]
+- [[80 Developer Playbook/20 FBX Asset Library/Kenney - Mini Characters - Development Guide|Kenney - Mini Characters]]
+- [[80 Developer Playbook/20 FBX Asset Library/Kenney - Mini Dungeon - Development Guide|Kenney - Mini Dungeon]]
+- [[80 Developer Playbook/20 FBX Asset Library/Kenney - Mini Forest - Development Guide|Kenney - Mini Forest]]
+- [[80 Developer Playbook/20 FBX Asset Library/Kenney - Mini Market - Development Guide|Kenney - Mini Market]]
+- [[80 Developer Playbook/20 FBX Asset Library/Kenney - Mini Skate - Development Guide|Kenney - Mini Skate]]
+- [[80 Developer Playbook/20 FBX Asset Library/Kenney - Minigolf Kit - Development Guide|Kenney - Minigolf Kit]]
+- [[80 Developer Playbook/20 FBX Asset Library/Kenney - Modular Buildings - Development Guide|Kenney - Modular Buildings]]
+- [[80 Developer Playbook/20 FBX Asset Library/Kenney - Modular Cave Kit - Development Guide|Kenney - Modular Cave Kit]]
+- [[80 Developer Playbook/20 FBX Asset Library/Kenney - Modular Dungeon Kit - Development Guide|Kenney - Modular Dungeon Kit]]
+- [[80 Developer Playbook/20 FBX Asset Library/Kenney - Modular Space Kit - Development Guide|Kenney - Modular Space Kit]]
+- [[80 Developer Playbook/20 FBX Asset Library/Kenney - Nature Kit - Development Guide|Kenney - Nature Kit]]
+- [[80 Developer Playbook/20 FBX Asset Library/Kenney - Pirate Kit - Development Guide|Kenney - Pirate Kit]]
+- [[80 Developer Playbook/20 FBX Asset Library/Kenney - Platformer Kit - Development Guide|Kenney - Platformer Kit]]
+- [[80 Developer Playbook/20 FBX Asset Library/Kenney - Prototype Kit - Development Guide|Kenney - Prototype Kit]]
+- [[80 Developer Playbook/20 FBX Asset Library/Kenney - Racing Kit - Development Guide|Kenney - Racing Kit]]
+- [[80 Developer Playbook/20 FBX Asset Library/Kenney - Retro Fantasy Kit - Development Guide|Kenney - Retro Fantasy Kit]]
+- [[80 Developer Playbook/20 FBX Asset Library/Kenney - Retro Urban Kit - Development Guide|Kenney - Retro Urban Kit]]
+- [[80 Developer Playbook/20 FBX Asset Library/Kenney - Space Kit - Development Guide|Kenney - Space Kit]]
+- [[80 Developer Playbook/20 FBX Asset Library/Kenney - Space Station Kit - Development Guide|Kenney - Space Station Kit]]
+- [[80 Developer Playbook/20 FBX Asset Library/Kenney - Survival Kit - Development Guide|Kenney - Survival Kit]]
+- [[80 Developer Playbook/20 FBX Asset Library/Kenney - Tower Defense Kit - Development Guide|Kenney - Tower Defense Kit]]
+- [[80 Developer Playbook/20 FBX Asset Library/Kenney - Toy Car Kit - Development Guide|Kenney - Toy Car Kit]]
+- [[80 Developer Playbook/20 FBX Asset Library/Kenney - Train Kit - Development Guide|Kenney - Train Kit]]
+- [[80 Developer Playbook/20 FBX Asset Library/Kenney - Watercraft Kit - Development Guide|Kenney - Watercraft Kit]]
+- [[80 Developer Playbook/20 FBX Asset Library/Poly Haven - Appliances - Development Guide|Poly Haven - Appliances]]
+- [[80 Developer Playbook/20 FBX Asset Library/Poly Haven - Bed - Development Guide|Poly Haven - Bed]]
+- [[80 Developer Playbook/20 FBX Asset Library/Poly Haven - Books - Development Guide|Poly Haven - Books]]
+- [[80 Developer Playbook/20 FBX Asset Library/Poly Haven - Containers - Development Guide|Poly Haven - Containers]]
+- [[80 Developer Playbook/20 FBX Asset Library/Poly Haven - Decorative - Development Guide|Poly Haven - Decorative]]
+- [[80 Developer Playbook/20 FBX Asset Library/Poly Haven - Electronics - Development Guide|Poly Haven - Electronics]]
+- [[80 Developer Playbook/20 FBX Asset Library/Poly Haven - Food - Development Guide|Poly Haven - Food]]
+- [[80 Developer Playbook/20 FBX Asset Library/Poly Haven - Furniture - Development Guide|Poly Haven - Furniture]]
+- [[80 Developer Playbook/20 FBX Asset Library/Poly Haven - Grass - Development Guide|Poly Haven - Grass]]
+- [[80 Developer Playbook/20 FBX Asset Library/Poly Haven - Industrial - Development Guide|Poly Haven - Industrial]]
+- [[80 Developer Playbook/20 FBX Asset Library/Poly Haven - Instrument - Development Guide|Poly Haven - Instrument]]
+- [[80 Developer Playbook/20 FBX Asset Library/Poly Haven - Lighting - Development Guide|Poly Haven - Lighting]]
+- [[80 Developer Playbook/20 FBX Asset Library/Poly Haven - Nature - Development Guide|Poly Haven - Nature]]
+- [[80 Developer Playbook/20 FBX Asset Library/Poly Haven - Office - Development Guide|Poly Haven - Office]]
+- [[80 Developer Playbook/20 FBX Asset Library/Poly Haven - Plants - Development Guide|Poly Haven - Plants]]
+- [[80 Developer Playbook/20 FBX Asset Library/Poly Haven - Props - Development Guide|Poly Haven - Props]]
+- [[80 Developer Playbook/20 FBX Asset Library/Poly Haven - Rocks - Development Guide|Poly Haven - Rocks]]
+- [[80 Developer Playbook/20 FBX Asset Library/Poly Haven - Seating - Development Guide|Poly Haven - Seating]]
+- [[80 Developer Playbook/20 FBX Asset Library/Poly Haven - Shelves - Development Guide|Poly Haven - Shelves]]
+- [[80 Developer Playbook/20 FBX Asset Library/Poly Haven - Ships - Development Guide|Poly Haven - Ships]]
+- [[80 Developer Playbook/20 FBX Asset Library/Poly Haven - Structures - Development Guide|Poly Haven - Structures]]
+- [[80 Developer Playbook/20 FBX Asset Library/Poly Haven - Table - Development Guide|Poly Haven - Table]]
+- [[80 Developer Playbook/20 FBX Asset Library/Poly Haven - Tools - Development Guide|Poly Haven - Tools]]
+- [[80 Developer Playbook/20 FBX Asset Library/Poly Haven - Vases - Development Guide|Poly Haven - Vases]]
+- [[80 Developer Playbook/20 FBX Asset Library/Poly Haven - Wall Decoration - Development Guide|Poly Haven - Wall Decoration]]
+- [[80 Developer Playbook/20 FBX Asset Library/Poly Haven - Weapons - Development Guide|Poly Haven - Weapons]]
+- [[80 Developer Playbook/20 FBX Asset Library/Top G Originals - VFX Mesh Pack - Development Guide|Top G Originals - VFX Mesh Pack]]
+- [[80 Developer Playbook/20 FBX Asset Library/FBX Asset Library - Hub - Development Guide|FBX Asset Library - Hub]]
+- [[80 Developer Playbook/20 FBX Asset Library/More Free Sources - ambientCG - Development Guide|More Free Sources - ambientCG]]
+- [[80 Developer Playbook/20 FBX Asset Library/More Free Sources - Hub - Development Guide|More Free Sources - Hub]]
+- [[80 Developer Playbook/20 FBX Asset Library/More Free Sources - KayKit - Development Guide|More Free Sources - KayKit]]
+- [[80 Developer Playbook/20 FBX Asset Library/More Free Sources - Khronos glTF Samples - Development Guide|More Free Sources - Khronos glTF Samples]]
+- [[80 Developer Playbook/20 FBX Asset Library/More Free Sources - NASA 3D Resources - Development Guide|More Free Sources - NASA 3D Resources]]
+- [[80 Developer Playbook/20 FBX Asset Library/More Free Sources - OpenGameArt CC0 - Development Guide|More Free Sources - OpenGameArt CC0]]
+- [[80 Developer Playbook/20 FBX Asset Library/More Free Sources - Smithsonian Open Access - Development Guide|More Free Sources - Smithsonian Open Access]]
+- [[80 Developer Playbook/20 FBX Asset Library/Poly Haven Roblox-Ready - Catalog - Development Guide|Poly Haven Roblox-Ready - Catalog]]

@@ -1,0 +1,100 @@
+---
+kind: development-category-hub
+category: "10 3D Art and Materials"
+---
+# 10 3D Art and Materials — Development Hub
+
+This hub contains 78 new development companions, one for each existing Markdown note in **10 3D Art and Materials**. Each links to its source and adds implementation and validation guidance.
+
+## Focus
+Use this material to ship assets within visual and runtime budgets.
+
+## Build loop
+1. Set scale, pivot, naming, materials, collision, and import conventions; validate one asset first.
+2. Check texture memory, mesh complexity, rig compatibility, and licensing.
+3. Compare at target distance and quality; verify interaction and performance.
+
+## Connected disciplines
+- [[80 Developer Playbook/09 Maps and Worlds/_Development Hub|09 Maps and Worlds]]
+- [[80 Developer Playbook/11 VFX Lighting and Weather/_Development Hub|11 VFX Lighting and Weather]]
+- [[80 Developer Playbook/20 FBX Asset Library/_Development Hub|20 FBX Asset Library]]
+
+## New guides
+- [[80 Developer Playbook/10 3D Art and Materials/3D Modeling Blender - Development Guide|3D Modeling Blender]]
+- [[80 Developer Playbook/10 3D Art and Materials/Art Asset Game-Ready Lab - Development Guide|Art Asset Game-Ready Lab]]
+- [[80 Developer Playbook/10 3D Art and Materials/Art Content Pipeline - Development Guide|Art Content Pipeline]]
+- [[80 Developer Playbook/10 3D Art and Materials/Asset vs Effect Decision Matrix — What Should Be Geometry - Development Guide|Asset vs Effect Decision Matrix — What Should Be Geometry?]]
+- [[80 Developer Playbook/10 3D Art and Materials/Blender Game-Ready Audit - Development Guide|Blender Game-Ready Audit]]
+- [[80 Developer Playbook/10 3D Art and Materials/Blender One-Shot Model Scripts (Copy-Paste) - Development Guide|Blender One-Shot Model Scripts (Copy-Paste)]]
+- [[80 Developer Playbook/10 3D Art and Materials/Blender Modifiers for Game Assets - Bevel, Weighted Normal, Mirror, Array, Decimate - Development Guide|Blender Modifiers for Game Assets - Bevel, Weighted Normal, Mirror, Array, Decimate]]
+- [[80 Developer Playbook/10 3D Art and Materials/EditableMesh and EditableImage - Runtime Uses, Limits and Gotchas - Development Guide|EditableMesh and EditableImage - Runtime Uses, Limits and Gotchas]]
+- [[80 Developer Playbook/10 3D Art and Materials/Geometry Nodes Scatter and Kitbash - Realize Instances Before Export - Development Guide|Geometry Nodes Scatter and Kitbash - Realize Instances Before Export]]
+- [[80 Developer Playbook/10 3D Art and Materials/Hard-Surface Props with Booleans - Cleanup for Clean Game Shading - Development Guide|Hard-Surface Props with Booleans - Cleanup for Clean Game Shading]]
+- [[80 Developer Playbook/10 3D Art and Materials/Low-Poly Vehicle Models - Separate Wheels, Body Parts and Pivots - Development Guide|Low-Poly Vehicle Models - Separate Wheels, Body Parts and Pivots]]
+- [[80 Developer Playbook/10 3D Art and Materials/Modeling Hand-Held Tools and Weapons - Handle, Grip Point and Scale - Development Guide|Modeling Hand-Held Tools and Weapons - Handle, Grip Point and Scale]]
+- [[80 Developer Playbook/10 3D Art and Materials/Naming Conventions for Meshes, Materials and Textures - Development Guide|Naming Conventions for Meshes, Materials and Textures]]
+- [[80 Developer Playbook/10 3D Art and Materials/Pivots for Moving Props - Blender Origins, PivotOffset and Hinges - Development Guide|Pivots for Moving Props - Blender Origins, PivotOffset and Hinges]]
+- [[80 Developer Playbook/10 3D Art and Materials/Prop Style Guide - Shape Language, Bevel Size and Detail Density - Development Guide|Prop Style Guide - Shape Language, Bevel Size and Detail Density]]
+- [[80 Developer Playbook/10 3D Art and Materials/Retopology Basics - Turning Sculpts and AI Meshes into Game Meshes - Development Guide|Retopology Basics - Turning Sculpts and AI Meshes into Game Meshes]]
+- [[80 Developer Playbook/10 3D Art and Materials/Stylized Trees and Foliage Cards - Alpha Cutouts, Two-Sided Leaves and Overdraw - Development Guide|Stylized Trees and Foliage Cards - Alpha Cutouts, Two-Sided Leaves and Overdraw]]
+- [[80 Developer Playbook/10 3D Art and Materials/Baking Normal and AO Maps in Blender for Roblox - Development Guide|Baking Normal and AO Maps in Blender for Roblox]]
+- [[80 Developer Playbook/10 3D Art and Materials/Level of Detail on Roblox - RenderFidelity, SLIM and Hand-Made LODs - Development Guide|Level of Detail on Roblox - RenderFidelity, SLIM and Hand-Made LODs]]
+- [[80 Developer Playbook/10 3D Art and Materials/Low-Poly Colour Workflows - Palette Atlas vs Vertex Colours - Development Guide|Low-Poly Colour Workflows - Palette Atlas vs Vertex Colours]]
+- [[80 Developer Playbook/10 3D Art and Materials/AI 3D Generators Compared - Roblox Cube, Meshy and Tripo - Cleanup and Licence Caveats - Development Guide|AI 3D Generators Compared - Roblox Cube, Meshy and Tripo - Cleanup and Licence Caveats]]
+- [[80 Developer Playbook/10 3D Art and Materials/Art Asset Library in Studio - Asset Manager Folders, Tags and Attributes - Development Guide|Art Asset Library in Studio - Asset Manager Folders, Tags and Attributes]]
+- [[80 Developer Playbook/10 3D Art and Materials/Blender Extensions Platform - Free Add-ons for Game Art and Their Licenses - Development Guide|Blender Extensions Platform - Free Add-ons for Game Art and Their Licenses]]
+- [[80 Developer Playbook/10 3D Art and Materials/Blender Hotkeys and UI Setup for Roblox Devs - Development Guide|Blender Hotkeys and UI Setup for Roblox Devs]]
+- [[80 Developer Playbook/10 3D Art and Materials/Car Body Blockout from Reference Images - Half Model, Mirror and Wheel Arches - Development Guide|Car Body Blockout from Reference Images - Half Model, Mirror and Wheel Arches]]
+- [[80 Developer Playbook/10 3D Art and Materials/Cute Stylized Pets - Proportions, Topology and Rig-Ready Shapes - Development Guide|Cute Stylized Pets - Proportions, Topology and Rig-Ready Shapes]]
+- [[80 Developer Playbook/10 3D Art and Materials/Furniture Sets - Shared Dimensions, Seats and Collision - Development Guide|Furniture Sets - Shared Dimensions, Seats and Collision]]
+- [[80 Developer Playbook/10 3D Art and Materials/Hair Cards and Cloth Cards - Strips, Alpha Textures and DoubleSided - Development Guide|Hair Cards and Cloth Cards - Strips, Alpha Textures and DoubleSided]]
+- [[80 Developer Playbook/10 3D Art and Materials/Low-Poly Guns - Blockout, Moving-Part Split and Readable Silhouettes - Development Guide|Low-Poly Guns - Blockout, Moving-Part Split and Readable Silhouettes]]
+- [[80 Developer Playbook/10 3D Art and Materials/Melee Weapon Blockout - Sword, Axe and Hammer from Silhouette to Export - Development Guide|Melee Weapon Blockout - Sword, Axe and Hammer from Silhouette to Export]]
+- [[80 Developer Playbook/10 3D Art and Materials/Photogrammetry Scans to Roblox - Decimate, Bake and Delight - Development Guide|Photogrammetry Scans to Roblox - Decimate, Bake and Delight]]
+- [[80 Developer Playbook/10 3D Art and Materials/Rigid Hats and Backpacks - Blender Recipe to UGC Size Limits - Development Guide|Rigid Hats and Backpacks - Blender Recipe to UGC Size Limits]]
+- [[80 Developer Playbook/10 3D Art and Materials/Stylized Food Props - Shapes, Colour and Budgets - Development Guide|Stylized Food Props - Shapes, Colour and Budgets]]
+- [[80 Developer Playbook/10 3D Art and Materials/Modular Kits and Grid Snapping in Studs - Development Guide|Modular Kits and Grid Snapping in Studs]]
+- [[80 Developer Playbook/10 3D Art and Materials/One Material per MeshPart - Splitting vs Atlasing Multi-Material Models - Development Guide|One Material per MeshPart - Splitting vs Atlasing Multi-Material Models]]
+- [[80 Developer Playbook/10 3D Art and Materials/Parts, Unions or MeshParts - Choosing the Geometry Type - Development Guide|Parts, Unions or MeshParts - Choosing the Geometry Type]]
+- [[80 Developer Playbook/10 3D Art and Materials/Smooth and Hard Edges - Shading Normals for Roblox Meshes - Development Guide|Smooth and Hard Edges - Shading Normals for Roblox Meshes]]
+- [[80 Developer Playbook/10 3D Art and Materials/Stylized vs Realistic Art Direction on Roblox - Development Guide|Stylized vs Realistic Art Direction on Roblox]]
+- [[80 Developer Playbook/10 3D Art and Materials/Trim Sheets for Roblox Environments - Development Guide|Trim Sheets for Roblox Environments]]
+- [[80 Developer Playbook/10 3D Art and Materials/UV Unwrapping and Texel Density in Studs - Development Guide|UV Unwrapping and Texel Density in Studs]]
+- [[80 Developer Playbook/10 3D Art and Materials/FBX Import Settings, Scale and Collision Fidelity - Development Guide|FBX Import Settings, Scale and Collision Fidelity]]
+- [[80 Developer Playbook/10 3D Art and Materials/Hero Creature Production — From Sculpt to Roblox - Development Guide|Hero Creature Production — From Sculpt to Roblox]]
+- [[80 Developer Playbook/10 3D Art and Materials/MESHES, TOPOLOGY & BLENDER - Development Guide|MESHES, TOPOLOGY & BLENDER]]
+- [[80 Developer Playbook/10 3D Art and Materials/PROMPT LIBRARY FOR TRIPO 3D GENERATION - Development Guide|PROMPT LIBRARY FOR TRIPO / 3D GENERATION]]
+- [[80 Developer Playbook/10 3D Art and Materials/Roblox Mesh and Avatar Geometry Specs — 2026 Snapshot - Development Guide|Roblox Mesh and Avatar Geometry Specs — 2026 Snapshot]]
+- [[80 Developer Playbook/10 3D Art and Materials/TRIPO AI 3D MODEL WORKFLOW - Development Guide|TRIPO / AI 3D MODEL WORKFLOW]]
+- [[80 Developer Playbook/10 3D Art and Materials/Tripo → Blender → Roblox Production Pipeline - Development Guide|Tripo → Blender → Roblox Production Pipeline]]
+- [[80 Developer Playbook/10 3D Art and Materials/ambientCG to Roblox - CC0 Tiling Materials as MaterialVariants - Development Guide|ambientCG to Roblox - CC0 Tiling Materials as MaterialVariants]]
+- [[80 Developer Playbook/10 3D Art and Materials/Colour Palettes for a Consistent Look - Value, Saturation and Accent Rules - Development Guide|Colour Palettes for a Consistent Look - Value, Saturation and Accent Rules]]
+- [[80 Developer Playbook/10 3D Art and Materials/Studio AI Material and Texture Generators - Choosing, Prompting and Cleaning Up - Development Guide|Studio AI Material and Texture Generators - Choosing, Prompting and Cleaning Up]]
+- [[80 Developer Playbook/10 3D Art and Materials/Glowing Surfaces - Neon Material, Emissive Masks and Bloom - Development Guide|Glowing Surfaces - Neon Material, Emissive Masks and Bloom]]
+- [[80 Developer Playbook/10 3D Art and Materials/MaterialVariant and MaterialService - Custom Materials for Parts and Terrain - Development Guide|MaterialVariant and MaterialService - Custom Materials for Parts and Terrain]]
+- [[80 Developer Playbook/10 3D Art and Materials/Choosing a Texture Painter - Substance Painter, ArmorPaint or Blender - Development Guide|Choosing a Texture Painter - Substance Painter, ArmorPaint or Blender]]
+- [[80 Developer Playbook/10 3D Art and Materials/Glass, Ice and Liquid Props - Glass Material, Transparency and Refraction Limits - Development Guide|Glass, Ice and Liquid Props - Glass Material, Transparency and Refraction Limits]]
+- [[80 Developer Playbook/10 3D Art and Materials/Hand-Painted Texture Style on Roblox - Baked Light, Edge Highlights and Flat PBR - Development Guide|Hand-Painted Texture Style on Roblox - Baked Light, Edge Highlights and Flat PBR]]
+- [[80 Developer Playbook/10 3D Art and Materials/Metal and Plastic Looks with Built-in Materials - Presets, Reflectance and When to Upgrade - Development Guide|Metal and Plastic Looks with Built-in Materials - Presets, Reflectance and When to Upgrade]]
+- [[80 Developer Playbook/10 3D Art and Materials/PBR Decals and Textures - Normal, Roughness, Metalness and Emissive Maps on Decal - Development Guide|PBR Decals and Textures - Normal, Roughness, Metalness and Emissive Maps on Decal]]
+- [[80 Developer Playbook/10 3D Art and Materials/Texture Painting in Blender - Setup, Layers by Baking and Export to SurfaceAppearance - Development Guide|Texture Painting in Blender - Setup, Layers by Baking and Export to SurfaceAppearance]]
+- [[80 Developer Playbook/10 3D Art and Materials/Toon and Cel Looks on Roblox - Inverted Hull Outlines, Ramps and Highlight Limits - Development Guide|Toon and Cel Looks on Roblox - Inverted Hull Outlines, Ramps and Highlight Limits]]
+- [[80 Developer Playbook/10 3D Art and Materials/Weathering and Grime - Edge Wear, Dirt Masks and Decal Layers - Development Guide|Weathering and Grime - Edge Wear, Dirt Masks and Decal Layers]]
+- [[80 Developer Playbook/10 3D Art and Materials/Normal Map Rules for Roblox - OpenGL Green, Tangents and Flat Values - Development Guide|Normal Map Rules for Roblox - OpenGL Green, Tangents and Flat Values]]
+- [[80 Developer Playbook/10 3D Art and Materials/PBR Value Cheat Sheet - Albedo, Metalness and Roughness Ranges - Development Guide|PBR Value Cheat Sheet - Albedo, Metalness and Roughness Ranges]]
+- [[80 Developer Playbook/10 3D Art and Materials/Pixel Art and Retro Textures - ResampleMode Pixelated and Crisp Low-Res Looks - Development Guide|Pixel Art and Retro Textures - ResampleMode Pixelated and Crisp Low-Res Looks]]
+- [[80 Developer Playbook/10 3D Art and Materials/SurfaceAppearance AlphaMode and TintMask - Recolorable Assets - Development Guide|SurfaceAppearance AlphaMode and TintMask - Recolorable Assets]]
+- [[80 Developer Playbook/10 3D Art and Materials/Texture Export from Blender and Substance for SurfaceAppearance - Development Guide|Texture Export from Blender and Substance for SurfaceAppearance]]
+- [[80 Developer Playbook/10 3D Art and Materials/Texture vs Decal vs SurfaceAppearance - Which Surface Tool to Use - Development Guide|Texture vs Decal vs SurfaceAppearance - Which Surface Tool to Use]]
+- [[80 Developer Playbook/10 3D Art and Materials/SurfaceAppearance PBR from Poly Haven Textures - Development Guide|SurfaceAppearance PBR from Poly Haven Textures]]
+- [[80 Developer Playbook/10 3D Art and Materials/Texture Memory and Triangle Budgets for Roblox Scenes - Development Guide|Texture Memory and Triangle Budgets for Roblox Scenes]]
+- [[80 Developer Playbook/10 3D Art and Materials/Fur, Hair, Teeth & Eyes — Hero Material Tricks - Development Guide|Fur, Hair, Teeth & Eyes — Hero Material Tricks]]
+- [[80 Developer Playbook/10 3D Art and Materials/Low, Mid, and High Poly Strategy - Development Guide|Low, Mid, and High Poly Strategy]]
+- [[80 Developer Playbook/10 3D Art and Materials/Material Response Framework - Development Guide|Material Response Framework]]
+- [[80 Developer Playbook/10 3D Art and Materials/Materials Textures - Development Guide|Materials Textures]]
+- [[80 Developer Playbook/10 3D Art and Materials/MATERIALS, PBR & TEXTURES - Development Guide|MATERIALS, PBR & TEXTURES]]
+- [[80 Developer Playbook/10 3D Art and Materials/Realistic Rock & Cliff Surfaces — PBR Without Waste - Development Guide|Realistic Rock & Cliff Surfaces — PBR Without Waste]]
+- [[80 Developer Playbook/10 3D Art and Materials/Texture and PBR Specs — 2026 Snapshot - Development Guide|Texture and PBR Specs — 2026 Snapshot]]
+- [[80 Developer Playbook/10 3D Art and Materials/Water, Shorelines & Foam — Practical Roblox Approach - Development Guide|Water, Shorelines & Foam — Practical Roblox Approach]]
+- [[80 Developer Playbook/10 3D Art and Materials/Visual Production Atlas - Development Guide|Visual Production Atlas]]
+- [[80 Developer Playbook/10 3D Art and Materials/Visual Reference Production Atlas - Development Guide|Visual Reference Production Atlas]]
